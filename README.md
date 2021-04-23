@@ -2,7 +2,7 @@
 
 ## Wordpress using Docker
 
-It's a small wordpress development.
+It's a small wordpress develoyment.
 
 ### Requirements
 
